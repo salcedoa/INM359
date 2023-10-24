@@ -6,3 +6,9 @@
 
 # Unignore all dirs
 !*/
+
+# Ignore DS_Store
+.DS_Store
+
+# Ignore all executables
+*.exe
